@@ -92,7 +92,7 @@ body{margin:0;background:#f8f8f8;overflow-x:hidden} .header{background:#D61120;h
 .side-icons li{display:inline-block;vertical-align:middle;left:1150px;bottom:95px;position:relative;margin-left:15px}
 
 .wallpaper{position:relative;top:70px}.wallpaper #wall{width:100%;display:block}
-.wallpaper #rec{display:inline-block;height:845px;bottom:845px;margin:0;padding:0;position:relative}
+.wallpaper #rec{display:inline-block;height:853px;bottom:853px;margin:0;padding:0;position:relative}
 .text #journey{font:700 96px inter;color:white;position:absolute;top:120px;left:100px}
 .text p{font:300 36px inter;position:absolute;top:320px;left:102px;color:white}
 .text h1{font:900 65px inter;color:#D61120;position:absolute;top:427px;left:100px}
