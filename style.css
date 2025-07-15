@@ -1,15 +1,20 @@
-html {
-  scroll-behavior: smooth;
-}
-body{margin:0;background:#f8f8f8;overflow-x:hidden} .header{background:#D61120;height:50px;padding:0 20px;margin:20px 0;position:relative}.header-content{width:100%;height:100%;position:relative}
+body{margin:0;background:#f8f8f8;overflow-x:hidden} 
+.header{background:#D61120;height:50px;padding:0 20px;margin:20px 0;position:relative}.header-content{width:100%;height:100%;position:relative}
 
-.text-block{display:inline-block;margin-left:50px;line-height:50px;vertical-align:middle}.globe-icon{height:20px;margin-right:5px;vertical-align:middle}
-#header-web{color:white;font:14px inter;vertical-align:middle}.social-block{right:20px;top:50%;transform:translateY(-50%);display:inline-block;margin-right:50px;position:absolute}
-#header-socials{font-family:inter;color:white;font-size:14px;vertical-align:middle}.header-icons{padding:0;margin:0;list-style:none;display:inline-block;vertical-align:middle}
-.header-icons li{display:inline-block;margin-left:5px}.header-icons img{height:20px;width:auto;vertical-align:middle}
-.below-content{display:inline-block;position:absolute;margin:20px 50px}.netband{line-height:100%;font:700 32px inter;color:#D4111A}
+.text-block{display:inline-block;margin-left:50px;line-height:50px;vertical-align:middle}
+.globe-icon{height:20px;margin-right:5px;vertical-align:middle}
+#header-web{color:white;font:14px inter;vertical-align:middle}
+.social-block{right:20px;top:50%;transform:translateY(-50%);display:inline-block;margin-right:50px;position:absolute}
+#header-socials{font-family:inter;color:white;font-size:14px;vertical-align:middle}
+.header-icons{padding:0;margin:0;list-style:none;display:inline-block;vertical-align:middle}
+.header-icons li{display:inline-block;margin-left:5px}
+.header-icons img{height:20px;width:auto;vertical-align:middle}
+.below-content{display:inline-block;position:absolute;margin:20px 50px}
+.netband{line-height:100%;font:700 32px inter;color:#D4111A}
 .menu li{font-family:inter;font-size:20px;list-style:none;display:inline-block;vertical-align:middle;left:250px;bottom:40px;position:relative;margin-left:35px}
-.menu a{text-decoration:none;color:black}.menu img{margin-left:3px}#home{font-weight:bold}
+.menu a{text-decoration:none;color:black}
+.menu img{margin-left:3px}
+#home{font-weight:bold}
 .side-icons li{display:inline-block;vertical-align:middle;left:1150px;bottom:95px;position:relative;margin-left:15px}
 
 .wallpaper{position:relative;top:70px}.wallpaper #wall{width:100%;display:block}
@@ -21,12 +26,14 @@ body{margin:0;background:#f8f8f8;overflow-x:hidden} .header{background:#D61120;h
 .wall-bg{width:210px;height:61px;background:#D61120;border-radius:7px;display:block;bottom:1050px;left:100px;position:relative}
 .wall-be span{display:block;font:700 28px inter;color:white;top:13px;left:30px;position:relative}
 
-.products{position:relative;bottom:250px}.products-text{display:inline-block;position:absolute}
+.products{position:relative;bottom:250px}
+.products-text{display:inline-block;position:absolute}
 .products-text #cer{position:relative;color:#F4222B;font:900 20px inter;bottom:520px;left:655px;text-decoration:underline}
-.products-text #tagline{position:absolute;width:800px;color:balck;text-align:center;left:365px;bottom:430px;font:700 32px inter}
+.products-text #tagline{position:absolute;width:800px;color:balck;text-align:center;left:365px;bottom:430px                                                                                                                       ;font:700 32px inter}
 .products-boxes li{background:#fff;border-radius:10px;width:319px;height:372px;display:inline-block;position:relative;margin-left:10px;box-shadow:0 4px 8px rgba(0,0,0,.2),0 6px 20px rgba(0,0,0,.19)}
 #pro1{left:50px;bottom:350px}#pro2{left:50px;bottom:376px;background-color:#D61120}#pro3{left:50px;bottom:354px}#pro4{left:50px;bottom:355px}
-.products-boxes img{display:inline-block;position:relative}#pro-img1{top:40px;left:30px}#pro-img2{top:67px;left:30px}#pro-img3{top:45px;left:30px}#pro-img4{top:46px;left:30px}
+.products-boxes img{display:inline-block;position:relative}
+#pro-img1{top:40px;left:30px}#pro-img2{top:67px;left:30px}#pro-img3{top:45px;left:30px}#pro-img4{top:46px;left:30px}
 
 .products-text li{font:800 20px inter;list-style:none;display:inline-block;position:relative;bottom:605px}
 #text1,#price1{left:90px;position:relative}#text2,#price2{left:195px;color:white;position:relative}
@@ -91,14 +98,6 @@ body{margin:0;background:#f8f8f8;overflow-x:hidden} .header{background:#D61120;h
 .menu a{text-decoration:none;color:black}.menu img{margin-left:3px}#home{font-weight:bold}
 .side-icons li{display:inline-block;vertical-align:middle;left:1150px;bottom:95px;position:relative;margin-left:15px}
 
-.wallpaper{position:relative;top:70px}.wallpaper #wall{width:100%;display:block}
-.wallpaper #rec{display:inline-block;height:853px;bottom:853px;margin:0;padding:0;position:relative}
-.text #journey{font:700 96px inter;color:white;position:absolute;top:120px;left:100px}
-.text p{font:300 36px inter;position:absolute;top:320px;left:102px;color:white}
-.text h1{font:900 65px inter;color:#D61120;position:absolute;top:427px;left:100px}
-#month{width:100px;position:absolute;top:38px;left:205px;color:#fff;font:900 25px inter}
-.wall-bg{width:210px;height:61px;background:#D61120;border-radius:7px;display:block;bottom:1050px;left:100px;position:relative}
-.wall-be span{display:block;font:700 28px inter;color:white;top:13px;left:30px;position:relative}
 
 .products{position:relative;bottom:250px}.products-text{display:inline-block;position:absolute}
 .products-text #cer{position:relative;color:#F4222B;font:900 20px inter;bottom:520px;left:655px;text-decoration:underline}
@@ -148,7 +147,7 @@ body{margin:0;background:#f8f8f8;overflow-x:hidden} .header{background:#D61120;h
 #expert-p{font:200 29px inter;list-style:none;bottom:1570px;left:55px;margin-top:5px;position:relative}#expert-p img{top:7px;right:5px;position:relative}
 .package-web{text-decoration:underline;font:400 38px inter;bottom:1540px;left:90px;position:relative}
 
-.footer-bar{background:#D61120;height:49px;padding:0 20px;margin-top:50px;position:relative;bottom:3371px}
+.footer-bar{background:#D61120;height:49px;padding:0 20px;margin-top:50px;position:relative;bottom:3386px}
 .footer-container{width:100%;height:100%;position:relative}.footer-left{line-height:49px;margin-left:50px;display:inline-block;vertical-align:middle}
 .footer-icon{height:20px;margin-right:5px;vertical-align:middle}#footer-website{color:white;font:14px inter;vertical-align:middle}
 .footer-right{right:20px;top:50%;transform:translateY(-50%);display:inline-block;margin-right:50px;position:absolute}

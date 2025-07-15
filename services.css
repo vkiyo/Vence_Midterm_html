@@ -12,6 +12,7 @@ body{margin:0;background-color:#f8f8f8;}
 .header-icons li{display:inline-block;margin-left:5px;}
 .header-icons img{height:20px;width:auto;vertical-align:middle;}
 
+.header-below{position: relative; top: 7px;}
 .below-content{display:inline-block;margin:20px 50px;position:absolute;}
 .netband{line-height:100%;font-size:32px;font-weight:bold;font-family:inter;color:#D4111A;}
 .menu li{font-family:inter;font-size:20px;list-style:none;display:inline-block;vertical-align:middle;position:relative;left:250px;bottom:40px;margin-left:35px;}
